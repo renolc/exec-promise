@@ -1,17 +1,17 @@
-# exec-promise
+# simple-exec-promise
 
 Small promise wrapper around child_process.exec
 
 ### Installation
 
 ```bash
-npm i exec-promise -S
+npm i simple-exec-promise -S
 ```
 
 ### Usage
 
 ```js
-var exec = require('exec-promise')
+var exec = require('simple-exec-promise')
 
 exec('sleep 5')
   .then(function() {
