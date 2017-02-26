@@ -1,4 +1,4 @@
-# simple-exec-promise
+# simple-exec-promise [![npm version](https://badge.fury.io/js/simple-exec-promise.svg)](https://badge.fury.io/js/simple-exec-promise)
 
 Small promise wrapper around child_process.exec
 
